@@ -15,3 +15,42 @@ nav.sem-bg
 .bold{
     font-weight: bold
 }
+
+h3.titulo-home
+{
+  font-size: 1.7rem;
+  text-align: center;
+}
+
+.indicators{
+    display: none
+}
+
+.btn-reserva{
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border: 1px solid white;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: 35rem;
+    margin-left: 38rem;
+    z-index: 999;
+}
+.btn-reserva a{
+    color: white
+}
+
+.btn-reserva a:hover{
+    color:#bf360c !important
+}
+.btn-reserva:hover{
+    border-color:#bf360c !important
+}
+
+h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    padding-bottom: 20px;
+    
+}
